@@ -103,9 +103,8 @@ plt.subplot(122); plt.hist(img_eq.ravel(),256,range = [0, 256]); plt.title('Hist
 <img width="1635" height="490" alt="Screenshot 2026-10-25 151439" src="https://github.com/user-attachments/assets/acc43210-c6b3-452d-b197-30fdd50c48f5" />
 
 ### Final Output of Original Image and its Histogram Equalized
-<img width="1636" height="488" alt="Screenshot 2026-10-25 151449" src="https://github.com/user-attachments/assets/db5c8d41-43f5-4b0a-88e9-3c698a03a54d" />
-
-
+<img width="1636" height="488" alt="Screenshot 2026-10-25 151449" src="https://github.com/user-attachments/assets/7d15a509-b42b-4881-a17c-89ad36d8eb62" />
+ 
 ## Result
 
 Thus, the histogram showing the frequency of pixel intensities ranging from 0 to 255 was obtained for the grayscale image and the color image using OpenCV.
